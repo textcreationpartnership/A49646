@@ -1,0 +1,692 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English academy a drawing book, containing variety of examples of the external parts of men, women, and childrens bodies with the shapes of several creatures frequently used amongst heralds, gold-smiths, &amp;c. : likewise, the arts of drawing, etching, engraving in copper and wood, painting and limning, all being carefully performed : wherein the aforesaid arts are exemplified, with plain and easie directions to guide you to their attainment with much delight : also the real method how to wash colour globes, maps, pictures, landskips, flowers, fruits, birds beasts, fish and fowl : a vvork worthy acceptation of all those that are friends to art, as, drawers, embroiderers, stone-cutters, carvers, gold smiths, needle-workers, gum-workers, &amp;c. performed according to the order of the first eminent masters of proportion, viz. / P.L., H.G., P.R., H.B.</title>
+            <author>P. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49646</idno>
+            <idno type="STC">Wing L50</idno>
+            <idno type="STC">ESTC R13512</idno>
+            <idno type="EEBO-CITATION">12156516</idno>
+            <idno type="OCLC">ocm 12156516</idno>
+            <idno type="VID">55154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55154)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 604:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English academy a drawing book, containing variety of examples of the external parts of men, women, and childrens bodies with the shapes of several creatures frequently used amongst heralds, gold-smiths, &amp;c. : likewise, the arts of drawing, etching, engraving in copper and wood, painting and limning, all being carefully performed : wherein the aforesaid arts are exemplified, with plain and easie directions to guide you to their attainment with much delight : also the real method how to wash colour globes, maps, pictures, landskips, flowers, fruits, birds beasts, fish and fowl : a vvork worthy acceptation of all those that are friends to art, as, drawers, embroiderers, stone-cutters, carvers, gold smiths, needle-workers, gum-workers, &amp;c. performed according to the order of the first eminent masters of proportion, viz. / P.L., H.G., P.R., H.B.</title>
+                  <author>P. L.</author>
+               </titleStmt>
+               <extent>[5], 35 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Lloyd for Dixy Page ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing attributes work to P.L.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drawing.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:55154:1"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rinted for Dixy Page 1673</hi>
+                  </p>
+                  <figDesc>depiction of painter at work</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:55154:1"/>
+            <p>The Engliſh Academy.</p>
+            <p>A DRAVVING BOOK.</p>
+            <p>Containing Variety of EXAMPLES OF THE External Parts of Men, Women, and Chil<g ref="char:EOLhyphen"/>drens Bodies; With the Shapes of ſeveral Creatures frequently uſed amongſt <hi>Heralds, Gold-ſmiths, &amp;c.</hi>
+            </p>
+            <p>LIKEWISE The ARTS of Drawing, Etching, Engraving in Copper and Wood, Painting and Limning: All being care<g ref="char:EOLhyphen"/>fully Performed.</p>
+            <p>WHEREIN The aforeſaid ARTS are Exemplified, with Plain and Eaſie Directions to Guide you to their Attainment, with much Delight. Alſo the Real Method how to Waſh or Colour GLOBES, MAPS, PICTURES, LANDSKIPS, FLOWERS, FRUITS, BIRDS, BEASTS, FISH and FOWL.</p>
+            <p>A VVORK Worthy Acceptation of all thoſe that are Friends to ART, AS,
+<list>
+                  <item>
+                     <hi>Drawers</hi>
+                  </item>
+                  <item>
+                     <hi>Embroiderers</hi>
+                  </item>
+                  <item>
+                     <hi>Stone-Cutters</hi>
+                  </item>
+                  <item>
+                     <hi>Carvers</hi>
+                  </item>
+                  <item>
+                     <hi>Goldſmiths</hi>
+                  </item>
+                  <item>
+                     <hi>Needle-Workers</hi>
+                  </item>
+                  <item>
+                     <hi>Gum-Work<g ref="char:EOLhyphen"/>ers, &amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Performed according to the Order of the Firſt and moſt Eminent Ma<g ref="char:EOLhyphen"/>ſters of Proportion, <hi>VIZ</hi>
+            </p>
+            <p>
+               <hi>P.L. H.G. P.R. H<g ref="char:punc">▪</g> B.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. L'oyd</hi> for <hi>D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Page,</hi> at the <hi>Author</hi> and <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rriner</hi> on <hi>Fiſh-ſtreet-Hill</hi> near <hi>London-Bridge,</hi> who buyeth all ſorts of Old-Books, and maketh the beſt Ink for Records. 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:55154:2"/>
+            <pb facs="tcp:55154:2"/>
+            <head>TO THE Ingenuous Lovers OF ART.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>AMONGST the Variety of Books of this Nature, here is One puts in for a ſhare. Its in a plain Garb, without that Enrichment that ſome are Adorned with; I mean, that laborious ſhadowing that beclouds the eyes of Young Practitioners, for whoſe Uſe chiefly this Piece is intended: It is in another kinde of Coloured Coat then all its former Brethren; not Clothed in Black, but in Red, for the convenient Uſe following. Thoſe that may deſire to attain the Art of Proportion, at the firſt ſight look upon the imitation of theſe firſt Rules to be ſo hard a task, that it oft falls out they rather deſiſt then adventure: Such therefore I Adviſe to go over each particular Part, in each Leaf, ſeveral times with a dry Pen, until the <hi>Idea</hi> of the Part they go over falls in with their Fancie, which when they do apprehend, then let them with a Pen and black Ink, go carefully over that part they ſo conceived in its Pro<g ref="char:EOLhyphen"/>portion; This way for a Learners Encouragement at his firſt Attempt, will reduce his firſt diſheartning to a ſpeedy undertaking of a firſt ſeem<g ref="char:EOLhyphen"/>ing impoſſibility: And this I Adviſe, for the Parts in each Leaf, and for ſo many Leaves as may lead the Beginner to a capacity of Appre<g ref="char:EOLhyphen"/>henſion of Proportion. If Envie carp, and ſay, <hi>This is a New Device:</hi> 'Tis ſoon Anſwered, <hi>But 'tis a true one.</hi> If the Artiſt ſhall ſay, <hi>'Tis an Erroneous Rule.</hi> 'Tis Replied, <hi>It's only intend<g ref="char:EOLhyphen"/>ed to lead to the knowledge of the true, and by that I mean the Eye and Hand, Imitation. Vale.</hi>
+            </p>
+            <div type="part">
+               <pb facs="tcp:55154:3"/>
+               <head>Of Inſtruments for Drawing and their Uſe.</head>
+               <p>A Pen knife, white Paper thick and ſmooth, Sallow-coals to be had of the Charcoal-men, Feathers of a Duck Wing, black or red Lead-Pencils; Pens made of a Ravens Quill, a neat Ruler, and a pair of Compaſſes.</p>
+               <p>Slit your Charcoals of Sallow-wood into ſlender Pieces, and then ſharpen them into the forme of a Pencil, the neateſt way of uſing them, is to put them into a large Quill or a braſs Pen<g ref="char:EOLhyphen"/>cil; This way you will avoid ſoyling, both your Fingers and the Paper on which you draw; the reaſon why you are firſt to draw with Charcoal is, becauſe it will with the leaſt touch of a Fea<g ref="char:EOLhyphen"/>ther be taken out, as oft as you ſee convenient, untill the deſign you imitate pleaſe your Fancie.</p>
+               <p>After your Proportion is thus far touch'd out, then with black Lead, by degrees, go over thoſe faint Touches remaining of the Cole, and carefully endeavour the Amendment of thoſe firſt Touches, with diligence comparing your Imitation with your Copy, and it will the better confirm your judgement; if now you try by your Compaſs the Proportion of the whole, and alſo each particular Part therein contain'd, before you perfect your Deſign with Ink- for after Ink you can make no alteration.</p>
+               <p>My Advice to young Learners is, that they would follow open and viſible Figures, not cumbred with tedious Shadows, until in ſome meaſure they apprehend the real Parts of true Proportion, for all ingenuous Perſons, account that ill-ſpent time, to be<g ref="char:EOLhyphen"/>ſtow great pains in ſhadowing a lame Proportion, and is no leſs ridiculous then a large Knot fix'd to a lame Letter; for thoſe that intend Graving of Figures, or Etching with <hi>Aqua fortis,</hi> af<g ref="char:EOLhyphen"/>ter they underſtand Proportion, it will be more advantageous to them to imitate open ſhadowed draughts, with the Method of the windings of the ſtroaks in that Piece they copy; for this will not only inure the hand, but likewiſe inform and confirm the Judgment, how to order proper ſhadows; but if the Practitio<g ref="char:EOLhyphen"/>ner deſign for Pointing then after Proportion is accompliſh'd, Bold and free Touches upon blew or fine grey Paper, with black chalk, heightned with Paſtills, of what colour you moſt fancie, is a moſt advantageous way of Practice. Some adviſe firſt to be<g ref="char:EOLhyphen"/>gin with Geometrical Figures; and then proceed to the Imita<g ref="char:EOLhyphen"/>tion of Fruits, Flowers and Plants; after that to Beaſts, Fowls and Fiſh.</p>
+               <p>And in the laſt place, to the parts of the Proportions contained in the Body of Man: I confeſs, this tedious task of going about may bring ſomething home at laſt: but if you grant, that the freeſt Fancie proves the beſt Artiſt, then why ſhould the Fancy be bound up, ſince there hath been rarely found and Artiſt that hath been excellent in Proportion in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="drawing_book">
+            <pb n="1" facs="tcp:55154:3"/>
+            <head>THE ENGLISH ACADEMY, A DRAVVING-BOOK.</head>
+            <div type="part">
+               <pb n="2" facs="tcp:55154:4"/>
+               <head>Of the EYES, NOSE, MOUTH, CHIN <hi>and</hi> EARES.</head>
+               <p>IN which you will finde a <hi>Medium</hi> in the Size preſented to your View, in ſeven ſeveral uſeful Motions, after the Order of no mean Maſter in the truth of Proportion, per<g ref="char:EOLhyphen"/>formed with few Touches, and you may ſingle out at plea<g ref="char:EOLhyphen"/>ſure, either <hi>Eye, Noſe</hi> or <hi>Mouth,</hi> if the whole together ſeem difficult; but the Printing in Red, as was formerly mentioned, is of excellent Uſe to bring in your Hand, and aſſiſt your Fancy in your firſt Attempt.</p>
+               <p>I have thus expreſs'd theſe parts of the Face, to inform you how Harmonious each part anſwers to the Motions in General, which way ſoever they turn: which if not firſt carefully view'd, and after that conceived of a poſſibility of truth in Imitation, your raſh Onſet will come to little: Go not from Leaf to Leaf, and from one part to another, until you have made a conſiderable progreſs by Imitation, and have great re<g ref="char:EOLhyphen"/>gard to the Face, whether young or old, fat or lean, grim or pleaſant, laughing or weeping: according to which all the parts muſt be anſwerable.</p>
+               <figure>
+                  <figDesc>drawings of faces</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:55154:5"/>
+               <head>Of Heads and their Proportions.</head>
+               <p>I Have here in this Leaf given you a more perfect Face with few Touches, yet Truth of Proportion and Motion; And when you at<g ref="char:EOLhyphen"/>tempt their Imitation, be very curious and careful in touching out lei<g ref="char:EOLhyphen"/>ſurely, Part by Part, obſerving whether the Face be elevated or deject<g ref="char:EOLhyphen"/>ed, wrinkled Age, or ſmooth-fac'd Youth, which are properly ex<g ref="char:EOLhyphen"/>preſs'd in this Leaf of Heads.</p>
+               <p>
+                  <hi>To Imitate which,</hi>
+                  <list>
+                     <item>1. Touch very lightly if it be a ſide face, as in theſe, the outmoſt Cir<g ref="char:EOLhyphen"/>cumference of the Head and Face, to direct you in the exact bigneſs.</item>
+                     <item>2. Conſider thoſe principal Touches that give life and likeneſs.</item>
+                     <item>3. In placing the Features, note the Parts muſt be equal, from the top of the Forehead to the Eye-brows, and from the Eye-brows to the bot<g ref="char:EOLhyphen"/>tom of the Noſe; And from the bottom of the Noſe to the bottom of the Chin are the Parts equal.</item>
+                     <item>4. The Mouth Extended, and the Corners turning up, ſhews a ſmi<g ref="char:EOLhyphen"/>ling Countenance, a bending Eye-brow, and the Forehead and top off the Noſe between the Eye-brows wrinkled, ſhews frowning.</item>
+                     <item>5. The diſtance betwixt the Eyes, muſt be the length of one Eye in the full Face, but in a half or three quarters Face it is leſned by degrees.</item>
+                     <item>6. Place the Noſtrils underneath the Corners of the Eyes exactly.</item>
+                     <item>7. Having touch'd out the Eyes, Noſe and Mouth lightly, make them more perfect, then proceed to finiſh the Face; and then proceed, if a man, to perfect it with the Hair on the Head and Beard.</item>
+                     <item>8. Obſerve exactly the principal Curies and Deepnings in the Hair, ſo ſhall the Order of the leſſer Curls fall in with Eaſe, ſtill having re<g ref="char:EOLhyphen"/>gard to the Imitation of your Pattern</item>
+                  </list>
+               </p>
+               <figure>
+                  <figDesc>drawings of heads</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:55154:6"/>
+               <head>Of Heads and their Proportions.</head>
+               <p>YOU have here another Leaf of Heads conſiderably different from the former, and no leſs exact; wherein the Method is continued with ſmall pains and proper Touch<g ref="char:EOLhyphen"/>es, according to their ſeveral Repreſentations, whether ſpritely Youth, or ſerious Age.</p>
+               <p>The lovely Countenance is expreſs'd without any cloud<g ref="char:EOLhyphen"/>ed brows, wrinkled forehead, with ample height and bredth; Alſo a Majeſtick Grace, a full Eye, a ſweet ſhadow at the bottom of the Eye-lid, and little at the Corner; a Noſe proportionable, not too wide Noſtrils; a clear Cheek ten<g ref="char:EOLhyphen"/>derly ſhadow'd, a ſmiling Mouth, a thin upper Lip, the Mouth-line ſhadow'd at the Corners.</p>
+               <p>The fearful Countenance is expreſs'd with hollow Eyes, looking heavy and downward, fallen, thin Cheeks, cloſe Mouth, with careleſs ſtaring Hair about the Ears.</p>
+               <p>The Envious Countenance is expreſs'd with hanging Cheeks, pale Countenance, and Grinning Teeth.</p>
+               <figure>
+                  <figDesc>drawings of heads</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:55154:7"/>
+               <head>Of Heads of ſeveral Creatures for Imitation.</head>
+               <p>THESE Varieties are no leſs uſeful then the former, for the Exerciſe of the Eye and Hand, done with as little pains, and yet to our intended Purpoſe.</p>
+               <list>
+                  <item>
+                     <hi>The Cruel Savage, Bear.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſtrong Elephant.</hi>
+                  </item>
+                  <item>
+                     <hi>The wanton Goat.</hi>
+                  </item>
+                  <item>
+                     <hi>The furious Lion.</hi>
+                  </item>
+                  <item>
+                     <hi>The tender Hinde.</hi>
+                  </item>
+                  <item>
+                     <hi>The Swiniſh Bore.</hi>
+                  </item>
+                  <item>
+                     <hi>The Antick Ape.</hi>
+                  </item>
+                  <item>
+                     <hi>The ſtout Horſe and the Cow.</hi>
+                  </item>
+               </list>
+               <p>Each of which, though of various Shapes, yet with a few Touches expreſſing their natural and principal Features; Intended for the uſe of all ſuch as have occaſion for Coats of Armes, Creſts, &amp;c. In imitation of which, each par<g ref="char:EOLhyphen"/>ticular Creature requires no leſs care and obſervation them the foregoing Heads, which with care, obſervation and deliberation, are to be firſt lightly touch'd out, their Pro<g ref="char:EOLhyphen"/>portions meaſur'd, and their diſtinct differences accordingly performed.</p>
+               <figure>
+                  <figDesc>drawings of animal heads</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:55154:8"/>
+               <head>Of HADS.</head>
+               <p>THE Variety of Poſtures and Actions of the Hands are more various then the opinions of Matters con<g ref="char:EOLhyphen"/>cerning their Proportions; ſome ſay, the Hand is the length of the Face; others, that it is three times: the length of the Noſe, againſt which there are Exceptions; ſome that hath along Face and Noſe, hath but a ſhort Hand: and others have a ſhort Face and a long Hand: but to the drawing of Hand there goes in the opinion of moſt no leſs curious Ob<g ref="char:EOLhyphen"/>ſervation then is required in a Face: its true Proportion with the Fingers, Joynts, Veins, with its bending of the Joynts, the Wriſt-bone, the ſmall ſwellings and bendings of the Finsers; alſo the Nails and Knuckles.</p>
+               <p>The Hand by Touches of the Muſcles diſcovers Age, anſwerable to the faces Diſcovery in its place.</p>
+               <p>The Plump and fleſhie, Youth and Courage: The Nail upon the laſt Joynt of the Finger, and takes about half that Joynt.</p>
+               <p>Obſerve-carefully theſe ſeveral Proportions, whether backward or forward, and paſs not them by until your Judgment convince you, that the Hand and Face are the choice Diſtinguiſhers of an able and experienc'd Artiſt.</p>
+               <figure>
+                  <figDesc>drawings of hands</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:55154:9"/>
+               <head>Of Feet and their Proportions.</head>
+               <p>Concerning theſe Nine Varieties of Feet, what hath been ſaid of Hands is not impertinent for the Obſer<g ref="char:EOLhyphen"/>vation of Feet, alſo eſpecially Conſidering our Modern ha<g ref="char:EOLhyphen"/>bits, they ſeldom appearing uncovered as the Hands uſually do. Neither think I it proper to Lead you into that La<g ref="char:EOLhyphen"/>byrinth and dubious ſtory, about Geometricall and Diago<g ref="char:EOLhyphen"/>nal Lines to form out Proportions, a Practice more fit for an able <hi>Mathematician,</hi> or <hi>Geometrician,</hi> than a Young un<g ref="char:EOLhyphen"/>dertaker for ſome particular uſes, the formes themſelves are obvious to each Eye, and ſo I leave it to your ſerious Imi<g ref="char:EOLhyphen"/>tation: adviſing you to obſerve all their Motions and Wind<g ref="char:EOLhyphen"/>ings, whether ſtanding, running or fallen, with their ſwel<g ref="char:EOLhyphen"/>lings of Ancles or Joynts, and their due Proportions.</p>
+               <p>
+                  <pb n="13" facs="tcp:55154:9"/>
+                  <figure>
+                     <figDesc>drawings of feet</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:55154:10"/>
+               <head>Of Armes and Hands joyn'd.</head>
+               <p>THESE more Compleat Parts of the Body, are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Preparatory to our farther deſign; which is to lead you on gradually to a higher perfection in truth of Proporti<g ref="char:EOLhyphen"/>on, wherein your ſerious Obſervation of each poſtures, Action and Motion is required, as if fix'd to the Trunk of the Body, without which you will never joyn-theſe Parts pro<g ref="char:EOLhyphen"/>perly to the whole: and although there appear little of ſha<g ref="char:EOLhyphen"/>dow in each part, yet the grand Touches that fall in the Bend or Motion of the Arm directs the true carriage, of ſhadows, in all ſuch Poſtures, Geſtures and Actions.</p>
+               <p>There is, and you will finde it ſo, a vaſt difference be<g ref="char:EOLhyphen"/>twixt the natural Compoſed Motion, and the enrag'd or forc'd Motion.</p>
+               <p>Let not the Armes length contain any inequality the one part to another; but with care and deliberation touch'd out each part: for the pitch of the ſhoulder to the Arms bend<g ref="char:EOLhyphen"/>ing, and from that part to the Wriſt, and accordingly with as great a care affix the hand.</p>
+               <figure>
+                  <figDesc>drawings of arms and hands</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:55154:11"/>
+               <head>Of Thighes, Legs and Feet; their Proportions.</head>
+               <p>THESE formes of Proportion are the laſt Part of the Parts of Proportion: our next will be to the Trunks of Bodies: What our Advice was concerning Armes and Hands is not to be forgot in theſe Parts, from the Groyn, the Thigh to the Knee bears a differenr thick<g ref="char:EOLhyphen"/>neſs, falling leſs and leſs: and the Muſcles about the Knee have curious Obſervations, and ſeldom well expreſs'd: from the Knee the ſwelling out as well as the falling in of the calf of the Leg, requires as exact Obſervation: And from the Ancle, the Foot, to the end of the Toes no leſs, if Harmoniouſly compleated.</p>
+               <p>If in all theſe parts of Proportions you run from part to part, before you underſtand what you are about: when you come to the Trunks of Bodies, and Bodies more compleat: then your erroneous performance will convince you of that neglect you all along ſo much ſlighted And as ſure as he that will write words before he can ſhape Letters is ridicu<g ref="char:EOLhyphen"/>lous, ſo no leſs guilty is he that attempts at whole Bodies before he underſtand the parts.</p>
+               <figure>
+                  <figDesc>drawings of thighs, legs and feet</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:55154:12"/>
+               <head>Of the Back-Parts and Fore-Parts of the Bodies of Man and Woman.</head>
+               <p>THE Trunk of Mans Body ſeen on the back-part from the ſhoulder to the Buttocks is expreſs'd, though with few Touches in his natural Poſtures, as the Muſcles properly fall: to imitate which, let it appear, that your la<g ref="char:EOLhyphen"/>bour in all the former parts was managed with ſuch dili<g ref="char:EOLhyphen"/>gence, that now in the cloſe your Progreſs expreſſes ſo much: the Touches of the Muſcles, and the Motion of the Body muſt be anſwerable, you will finde ſwellings out and fallings in of the body require curious and careful Obſer<g ref="char:EOLhyphen"/>ſervation: Note the Shoulders bredth, from thence to the Arm-pits, and ſo down: and let all Parallel-veins, Muſcles and Joynts be plac'd proper as they naturally fall in oppoſiti<g ref="char:EOLhyphen"/>on, the one anſwering the other: as ſhoulder to ſhoulder, ſide to ſide, and hip to hip: ſtill obſerving the Bodies Mo<g ref="char:EOLhyphen"/>tion and Winding.</p>
+               <p>The Trunk of a Womans Body is very different from that of a Man, which will appear to the eye of an Ingenious Ob<g ref="char:EOLhyphen"/>ſerver at the firſt Glance.</p>
+               <p>In the plump Roundneſs, and tender Pleaſantneſs in what ſhadows are requiſite for that Sex.</p>
+               <figure>
+                  <figDesc>drawings of bodies</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:55154:13"/>
+               <head>Of Heads and Trunks of the Body of Man and Woman joyn'd; both ſeen forward.</head>
+               <p>IN theſe Figures the Heads joyn'd to the Bodies come to the neareſt of our laſt Intention, which is Perfection and Proportion in the compleat Bodies of Man and Woman; The difference is great in the Obſervation of their fore<g ref="char:EOLhyphen"/>parts, as the Proportion themſelves beſt diſcover: The fore-part of Mans Body hath the like ſtrength of Muſcles anſwerable to the back-parts, as will appear in the Figure from the pitch of the Throat to the Privities, in his Breaſts, Sides and Belly, how unpleaſant to that of a Woman, whoſe beautiful Countenance, Clearneſs of Skin, Plumpneſs of Fleſh, Pleaſantneſs of Breaſts, and Roundneſs of Body, terms her, The Delight of Man for Pleaſure, Mirth and Solace.</p>
+               <p>
+                  <pb n="21" facs="tcp:55154:13"/>
+                  <figure>
+                     <figDesc>drawings of bodies</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:55154:14"/>
+               <head>Of whole Figures Naked.</head>
+               <p>THESE three following Figures of Women Naked, ſo largely expreſs'd, are not perfected to the Feet; but our Varieties fore-going, are to that defect, if any, a ſufficient ſupply, I might have given you, as <hi>Alber<g ref="char:EOLhyphen"/>tus Durus,</hi> and ſome others ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Proportions of Bodies by Lines thus divided, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which there are from the Grown or Top of the Head to the ſole of the Foot contained eight Parts or Meaſures of the Head, which the Ingenuous may ſoon examine with a Pair of Comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſes, either in the Fi<g ref="char:EOLhyphen"/>gures them<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lves deſigned, or the Pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om which they do deſign, in which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et theſe Obſervations continually be remembred.</p>
+               <p n="1">1. That the Bodies of Women of ordinary Proportion, contain the ſame Meaſures with that of Man.</p>
+               <p n="2">2. All <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtanding, whether of Men or Women, one Leg generally <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ears the ſtreſs of the whole Body, and the other Legiſtanding more looſe and free.</p>
+               <p n="3">3. Note, that although the Meaſures from Head to Foot both of Man and Woman agree, yet in the bredth of ſome of the Parts they differ much.</p>
+               <p n="4">4. For in the Body of Man the bredth of the Shoulders contain two Meaſures of the Head; and the bredth of the Hips two Meaſures of the Face.</p>
+               <p n="5">5. And the bredth between the Shoulders of a Woman contains but two lengths of the Face; and from the Hips to the Buttocks two lenghs of the Head.</p>
+               <p n="6">6. Obſerve how the Meaſures of the Body are di<g ref="char:EOLhyphen"/>vided.</p>
+               <list>
+                  <item>The firſt Meaſure contains the length of the Head.</item>
+                  <item>The ſecond to the bottom of the Breaſt.</item>
+                  <item>The third, from that to the Navil.</item>
+                  <item>The fourth, to the Privities.</item>
+                  <item>The fifth, to the brawny part of the Thigh.</item>
+                  <item>The ſixth, to the lower part of the Knee.</item>
+                  <item>The ſeventh, to the ſmall of the Leg.</item>
+                  <item>The eighth, to the Heel of the Foot.</item>
+               </list>
+               <figure>
+                  <figDesc>drawings of whole figures</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="24" facs="tcp:55154:15"/>
+               <head>Of the Bodies of Anatomy, and the Body of a Skeleton; both ſtanding backward.</head>
+               <p>THESE two Figures are added for Variety, and re<g ref="char:EOLhyphen"/>quire no leſs care in their Imitation then the other foregoing. In the Anatomy-Figure the ſeveral parts di<g ref="char:EOLhyphen"/>ſtinguiſhed lie viſible, from the Nape to the Throat, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bone of knitting; the Back, Shoulder, Blade, Chine and Loynes; Shoulder-Blades, Ribs, Waſte, Reins, Buttocks, Thighes, Hams, Ancles, Legs, Feet and Sole; to imitate theſe as the reſt foregoing lightly touch'd out in the out<g ref="char:EOLhyphen"/>ward forme before you: Divide the inward parts, and be ſure to finiſh no one part, until you find every part placed in its true and proper place, in exact Proportion, which having done, then wiping out your groſs Touches of the Cole, leav<g ref="char:EOLhyphen"/>ing only dim Touches for your Direction; then with black Lead, eyeing your Pattern, amend what you finde amiſs at firſt; And after, with a Neat Pen go over all again, and this finiſhing part, be ſure that in it you be moſt exact.</p>
+               <p>
+                  <pb n="25" facs="tcp:55154:15"/>
+                  <figure>
+                     <figDesc>drawings of musculature and skeleton</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:55154:16"/>
+               <head>The Art of Etching in <hi>Braſs, Copper, Sil<g ref="char:EOLhyphen"/>ver</hi> or <hi>Steel.</hi> Diſcovering what Inſtru<g ref="char:EOLhyphen"/>ments belong to that Art, and the way how to accompliſh the ſame.</head>
+               <p>FIRST, How to make the Ground to ſhadow upon.</p>
+               <p>Take one ounce and an half of Virgins Wax, half an ounce of <hi>Aſphaltum,</hi> half an ounce of the beſt <hi>Maſtick;</hi> beat your <hi>Aſphalt</hi> to powder; firſt, put your wax into a new clean Pipkin, and ſet it over a gentle fire, and when it is throughly melted, then put the <hi>Aſphalt</hi> and <hi>Maſtick</hi> into it, and let it be well mix'd altogether; then take a clean earthen Porringer near full of clean water, then pour your melted ſtuffe altogether into the water, only remember to leave the dregs behind; and when it is through cool'd in the water, then frame it up into a Ball; and when you are to uſe it, put it into a clean Lawn, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine Holland Rag doubled; but let not the Rag have any holes in it, and Tye it up cloſe for your uſe.</p>
+               <p>Your Copper being well poliſh'd, which is to be had ready prepar'd, before you lay on your Ground, Cole it over, and wipe not off the wa<g ref="char:EOLhyphen"/>ter, but ſet it ſlant that the water may drain off; and when you perceive it through dry, ſcrape ſome chalk very fine upon it, and then clear it o<g ref="char:EOLhyphen"/>ver with a fine linnen Rag, and be ſure that you touch not a finger upon the ſide of the plate clear'd, to avoid any greaſineſs, which is a great pre<g ref="char:EOLhyphen"/>judice to the Work.</p>
+               <p>Then to lay on your Ground.</p>
+               <p>Put into a chaffing-diſh or Fire-Pan, either ſome ſmall Cole fire, or Embers, for Charcoal is too vehement a fire, and would quickly burn and dry the moiſture out of your ground; but in laying your Plate up<g ref="char:EOLhyphen"/>on the fire, let the fire have Air: then take your Ground in your Rag; and try if your plate will melt it; if ſo, then be quick in ſpreading it o<g ref="char:EOLhyphen"/>ver the Copper, but lay it not too thick. Then take a Duck Feather, or a Raven, with that ſpread or wipe over the ground to make it very even, wiping it croſs every way to lie even, and when it is ſo, ſet it to cool.</p>
+               <p>Then to work exactly, and perceive your ſtrokes plain, cover over the aforeſaid Ground with a white colour.</p>
+               <p>Thus, grinde a ſmall quantity of white Lead, with a little Gum-water, and let it be of convenient mixture to ſpread; then take a large Pencil as big as a Wallnut or more; but let it be of fine hair, with which take off that Colour, and wipe over your Plate croſs-ways to lay it even; af<g ref="char:EOLhyphen"/>ter you ſee it even, then take a bruſh made of Squirrils Tails, and with that you may more curiouſly lay your white colour even.</p>
+               <p>
+                  <pb n="27" facs="tcp:55154:16"/>Then having Needles of ſeveral Sizes in readineſs well prepared, by whetting them upon an Oyl-ſtone, which to keep their Points round, you muſt let them run round betwixt your Fingers as the Turners run; being thus prepared, and your Draught or Deſign as ready, you are to con<g ref="char:EOLhyphen"/>ſider which way your Draught is to ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, when 'tis printed, and accord<g ref="char:EOLhyphen"/>ingly to place it upon your Plate, preparing your Draught with Red Lead, and ſmall-coal duſt rub'd over upon the back-ſide of your draught, and ſo fixing it to the Plate, with a blunt Needle for that purpoſe, trace over all the out lines of your draught alſo; touching out the folds or ſhadows, what diſtances, and how far dark or light.</p>
+               <p>Before you attempt to ſhadow draw over all your out-ſtrokes, as a<g ref="char:EOLhyphen"/>foreſaid, leſt otherwiſe you loſe that firſt mark of your tracing over which will ſoon be loſt and rub'd out.</p>
+               <p>Let your Needles with which you work be put into ſticks or Pencils the length of a Common Pen; and at the other end from the Needle, let there be a blunt Pencil to wipe off the Grounds that flies up before your Hand-working.</p>
+               <p>In your Working, Lean not hard upon your Pencil; but only to touch through the Ground to the Copper; when you leave work, wrap up your Plate in Papers; and if in Winter, in a Woollen Cloth, to keep your Ground from ſcratches in the one, and from freezing in the o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>When you have finiſh'd all your VVork fit to eat with <hi>Aqua fortis,</hi> firſt melt ſome green wax, and with an old Pencil lay it round upon the Edges of your Plate, to make your green Wall of Wax round your Plate, to keep your <hi>Aqua fortis</hi> upon it to eat; and this Wax muſt be wrought into long Pieces, the thickneſs of a common Paſte-board, and half as broad as a Knife, and ſo fix'd round upon the aforeſaid melted Wax; and with a little ſtick, broad at the end, ſharp-edged, thruſt down the Wax to make it ſtick; when you put on the <hi>Aqua fortis,</hi> if it be good, to a third part of that which was never uſed, mix it at leaſt with two parts to one of that which hath been uſed, if you intend your Work to be fine.</p>
+               <p>Or in caſe of want of that, you may mix Wine-Vineger with your <hi>Aqua fortis.</hi>
+               </p>
+               <p>But if your Work is to be courſe, you may uſe a third part of the <hi>Aqua fortis</hi> entire.</p>
+               <p>Only conſider the difference betwixt double and ſingle <hi>Aqua fortis.</hi>
+               </p>
+               <p>Laſtly, for what Parts you would have eaten ſweet, firſt pour off your <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ua fortis</hi> into a diſh, then waſh your Plate over with clear water; let <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y, and then melt ſome Candle-greaſe with the dregs of your Ground <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore melted, and with a Pencil cover thoſe Places you would have</p>
+               <p>
+                  <hi>Thus much of</hi> Etching.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:55154:17"/>
+               <head>Of the Art of Graving, the Inſtruments to be made uſe of, and how to emprove them, whe<g ref="char:EOLhyphen"/>ther upon <hi>Braſs, Copper, Steel</hi> or <hi>Pewter.</hi>
+               </head>
+               <p>TO practiſe this Art, Gravers are to be provided according to the Work you intend to practiſe; If for the Goldſmiths oc<g ref="char:EOLhyphen"/>caſions of Armes and Letters in what they call <hi>Flat-ſtitch,</hi> ſeve<g ref="char:EOLhyphen"/>ral crooked Gravers; If for to engrave Maps, Portraitures, Frontiſ<g ref="char:EOLhyphen"/>pieces, and the like, ſtrait Gravers are the moſt commodious; To which adde an Oyl-ſtone, a Cuſhion, a Burniſher and a Drawing-point.</p>
+               <p>The Oyl-ſtone is to be of a Grit, neither too fine nor too courſe; they are oft ſold in <hi>Forſter</hi>-lane; where the ſeveral ſorts of Gravers and Hafts alſo are ſold: Before you attempt to whet your Gravers, conſider what work you intend them for, and according to that prepare them, the Square point, and the Diamond-point are the chief for uſe.</p>
+               <p>In whetting your Graver keep the edge firm upon the ſtone, on which you intend to fix the point, and be ſure to carry an even ſteddy hand, placing both the fore-ſinger firmly upon the oppoſite ſide of the Graver, reſting your Haft-end againſt the Palm of the right hand, whetting both the ſides alike.</p>
+               <p>Then ſetting the end of the Graver ſloping upon the Stone, held firm againſt the Palm of the Hand; whet the Point very flat in form of a Di<g ref="char:EOLhyphen"/>amond: Having thus prepared your Graver, having a Leather-bag fill'd with ſand to lay your Plate on, hold your Plate with your left hand, ſo that with freedom you may turn it according to the Motion of either ſhadows or Letters you engrave</p>
+               <p>If your Graver be too hard at firſt, you may a bate it by holding it to the flame of a Candle, until you do perceive it to turn yellowiſh, or a ſtraw colour, then thruſt it into the Tallow, in which quench it; but in conſtant uſing in a little time it will become more uſeful by whetting, which is beſt. That the Haft of the Graver may not prejudice you, cut off the part of the knob of the Handle that lies upon the ſame line with the Edge of the Graver; otherwiſe, ſpecially in a large Plate you will not be able to move it upon the Copper, but it will both ſtop you in your ſtroke, and cauſe your Graver to run irregular.</p>
+               <p>And be ſure that your Fingers interpoſe not between the Plate and the Graver, for that will be of the like prejudice as the Haft.</p>
+               <p>He that inures not his Hand to ſuch a Command, that with one and the like eaſe, he can both begin and end a ſtroke, is to learn a chief part.</p>
+               <p>To imitate any Pattern, if to print forward you muſt reverſe it back<g ref="char:EOLhyphen"/>ward upon the Copper thus; your Plate being clear poliſh'd, heat it
+<pb n="29" facs="tcp:55154:17"/>over the fire; And when it is hot, take Bees Wax, put in a fine Rag, and rub the Plate over with it, until you perceive the Wax to lie even all over your Plate, both thin and even: you may for a more certainty lightly wipe it over with a Pidgeon or Duck-Feather to lay it even; then after it is cool'd, if your Print be not of too old a ſtanding, you may rub it off upon the Wax with an Ivory Haft of a Knife by degrees, and it will leave a perfect Impreſſion; But if it be very old, then to ſupply that defect either with black lead, or <hi>Franckfort</hi>-black, mix'd with clear water, the thickneſs of common Ink, and therewith go over all the chief Parts or Proportions you do intend to imitate, and that Impreſſion will remain upon the Wax, which with a drawing Point you muſt trace over upon the Copper, before you attempt to grave, leſt you rub out or loſe your Proportion.</p>
+               <p>But if you are to imitate a Piece, as it ſtands in your Pattern, to be grav'd upon wax; you may trace it through the Pattern, but it will plain<g ref="char:EOLhyphen"/>eſt appear upon the wax, if you black the back-ſide.</p>
+               <p>
+                  <hi>Thus much of</hi> Graving <hi>in</hi> Copper, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Engraving in Wood.</head>
+               <p>WHat ever is to be Cut, Carv'd or Graven in Wood, muſt be drawn, traced or paſted upon the VVood; and after that all that is vacant or to remain White muſt be Cut cleare out with little Narrow-pointed or points of Knives worne if the Mettall and temper be good will ſerve as well for that purpoſe.</p>
+               <p>This Cutting in Wood, is very tedious, difficult and curious, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or want of Incouragement much loſt to what repute once it had amongſt Famous Maſters.</p>
+               <p>The beſt Wood to cut upon are <hi>Beech,</hi> or <hi>Box,</hi> plain'd Inch t ick or more according to what uſe they are apply'd.</p>
+               <p>To draw any Pattern, or Coppy upon Wood.</p>
+               <p>Grinde white very fine mux't with fair Watter, and then dip a Rag therein and Rub over that ſide of the Wood you intend to cut upon, and when it is through dry, it will preſerve the Ink, when you draw upon it that it ſhall neither ſpread nor ſink.</p>
+               <p>Having whited the Wood what you intend to cut either with black or Red colour the Back-part, and with a blunt Drawing point or Swal<g ref="char:EOLhyphen"/>lows quill trace over all the parts you intend to Imitate.</p>
+               <p>If you will reverſe what you are to do unleſs you draw the deſigne a<g ref="char:EOLhyphen"/>gain the contrary way, you muſt paſte and ſpoyl your pattern.</p>
+               <p>And if you paſte it upon the Wood it muſt not be whited over; but be<g ref="char:EOLhyphen"/>ing well plain'd, wipe over the pattern on the work-ſide with Gum <hi>Tragacanth</hi> diſſolv'd in fair Water, and lay it ſmooth upon the Wood, and when it is faſt on and dry throughly, then wet it a little all over, and fret off the Paper gently, till you ſee perfectly every ſtroke of the figure or deſigne; than dry it againe and ſo fall to work.</p>
+               <p>
+                  <hi>Thus of Cutting in VVood.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:55154:18"/>
+               <head>Of Painting.</head>
+               <p>HE that will Paint in Oyle muſt provide a good Stone, to grinde his Colours, <hi>Porphry-ſtone</hi> is beſt and will do the leaſt damage to the Colours, but in ſuch a want a <hi>Slate,</hi> or a very hard Stone may ſerve, that a Knife will not wear away.</p>
+               <p>Upon which Stone with what Colours you intend, put<g ref="char:EOLhyphen"/>ing <hi>Lint-ſeed</hi> Oyl to it grind it until there remain no ſandineſs in the Colour.</p>
+               <p>A Pallat is the next materiall to lay your Colours upon, upon which they are alſo tempered; It is of an ovall forme, with a hole for your thumb.</p>
+               <p>Upon which lay your Colours in this order.</p>
+               <p>Next your thumb lay white-Lead, then next that lay <hi>Ver<g ref="char:EOLhyphen"/>million, Eaſt-India</hi>-Red-Lake, <hi>Pink</hi>-Yellow-<hi>Oker,</hi> or <hi>Spruſe-Oker,</hi> than <hi>Umber, Flury,</hi> &amp;c.</p>
+               <p>Thus your Pallat is prepar'd except the Compounding of them, which to be done for a Face.</p>
+               <p>Take a little White-Lead, and as much Vermillion, and the like quantitie of Lake, and mix them altogether, and this will ſerve for the Darkeſt Carnation that is, in the Colour of the Face, and ſo conſequently at pleaſure more white will make it more pale, then having come to the Paleſt Colour, you muſt temper a little White, and Flury together, for a proper faint Shadow for the Face.</p>
+               <p>Your Colours prepar'd as aforeſaid, uſe them on the Face, as follows.</p>
+               <p>Firſt, take your lighteſt Colour, and lay in the lighteſt place of the Fore-head, and of the Noſe, and the leaſt part of the Cheek-bone, and next place your Carnation Co<g ref="char:EOLhyphen"/>lour<g ref="char:punc">▪</g>
+               </p>
+               <p>And when you come to any place where a faint ſhadow is required, then as above-mentioned.</p>
+               <p>And for the Darkeſt ſhadows uſe <hi>Eaſt-India</hi>-Red, and Fullers-Earth, and ſometimes a little Pink amongſt it alto<g ref="char:EOLhyphen"/>gether, and note that theſe Colours above-mentioned are to expreſs a beautifull Face.</p>
+               <p>If you would make it a more Tawny complexion, put more
+<pb n="31" facs="tcp:55154:18"/>
+                  <hi>Eaſt-India</hi> Red for the Carnation, and more Pink in the lights or heightnings.</p>
+               <p>
+                  <hi>The Pencils for your uſe are theſe two.</hi>
+               </p>
+               <p>Swan-quills Pencils, one fige, one pointed. And for Gooſe-quill Pencils, two briſſels, two figes, and one great briſſel on a ſtick.</p>
+               <p>
+                  <hi>Theſe Pencils are ſufficient for any uſe.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Colours for Garments.</head>
+               <list>
+                  <item>FOR light Blews, Indigo and white Lead mixt together.</item>
+                  <item>For the darkeſt blew uſe all Indigo.</item>
+                  <item>Uſe White only of it ſelf for the light.</item>
+                  <item>For Green, uſe Biſe and Pinck mixt together.</item>
+                  <item>Uſe Maſticot for the Lights.</item>
+                  <item>Pink and Umber for the Darks.</item>
+                  <item>Reds muſt be made with <hi>Eaſt-India</hi> Red.</item>
+                  <item>The Lights with Vermillion.</item>
+                  <item>The Darkeſt with Earth of <hi>Colen.</hi>
+                  </item>
+                  <item>For Whites, uſe white Lead only.</item>
+                  <item>The Darks with Flour.</item>
+                  <item>For Blacks, uſe Lamb-black.</item>
+                  <item>The Lights, with Lamb-black and White mixt together.</item>
+                  <item>Bone-black for the darkeſt.</item>
+               </list>
+               <p>Theſe are the moſt uſual Colours for Garments; but note, when all theſe Colours are dry, then they muſt be glazed, which is like waſhing of Prints with thin Colours, either mix them with oyle or varniſh: your Blews muſt be glazed with <hi>Smalt, Biſe</hi> or <hi>Vltramorine;</hi> your Reds with Lake, and your Yellows with Pink.</p>
+               <p>This will cauſe them to be exceeding beautiful.</p>
+            </div>
+            <div type="part">
+               <head>Of Limning in Water-Colours.</head>
+               <p>TO Limn, prepare a fine ordinary ſiz'd Card, or very fine Paſte-board, and poliſh it well with a Dogs Tooth, as ſmall as poſ<g ref="char:EOLhyphen"/>ſibly you can, on the ſide you intend to uſe.</p>
+               <p>Then take a Piece of Abortive Parchment of the ſame ſize with your Card or Paſte-board, the which paſte firm with clean fine ſtarch; but before you uſe it, temper it firſt in your hand with a Knife, or your Finger, that it may be free from Knots, and then let it dry; then your Stone whereon you uſe to dry your Colours being made very clean, lay
+<pb n="32" facs="tcp:55154:19"/>the Card or Paſte-board thereon, the Parchment-ſide being downwards, then with a Tooth poliſh the backſide very hard; but note, that the out<g ref="char:EOLhyphen"/>ſide of the skin is beſt to Limn upon, and therefore muſt be outmoſt.</p>
+               <p>After this Preparation you muſt lay a Ground or Prime of fleſh Co<g ref="char:EOLhyphen"/>lour before you begin your work, and that muſt be tempered according to the Complexion of the face you are to draw; If the Complexion be fair, temper white Lake and Red-lead, but if a hard ſwarthy Complexi<g ref="char:EOLhyphen"/>on, then mingle with your white and red a little fine Maſticot, or <hi>Engliſh</hi> Oker, but obſerve that the Ground ſhould always be fairer then the Face you take, for it is an eaſie matter to darken a light colour, but difficult to make a ſad one lighter, for in Limning you muſt never heighten, but work them down to your juſt colour.</p>
+               <p>Your Ground being thus fitted, lay upon your piece of Paſte-board or Card, prepared with a bigger Pencil then ordinary, and lay ſmooth, even and free from Hairs of your Pencil, which that you may the better do, fill your Pencil full of colours, rather thin and wateriſh then thick and groſs; Then with two or three ſtrokes of your great Pencil lay on in an inſtant; for the ſooner it is laid on and nimbly, the evener it will lie.</p>
+               <p>Cover rather too much then too little for your primer; this done, take a ſhell, and before you begin to work, temper ſeveral little parcels of ſe<g ref="char:EOLhyphen"/>veral ſhadows for the face, and diſpoſe them about the edge of your ſhell, that they may be ready for uſe.</p>
+               <p>Note that theſe Colours are fit for a face.</p>
+               <p>For the Red in the Cheeks, Lips, &amp;c. Temper Lake, Red-Lead, and a little White together.</p>
+               <p>For faint blewiſh ſhadows temper Indigo and White.</p>
+               <p>For deeper ſhadows take White, <hi>Engliſh</hi> Oker, and a little Indigo, and for the dark and hard ſhadows uſe Lake and Pinck mixt with Umber, where note, that black muſt not be uſed in a face by any means.</p>
+               <p>Laſtly, When you have almoſt finiſh'd, do all the ſcars, moulds, ſmiling and glancing of the eye, deſcending and contracting of the Mouth, all which muſt be ſudden to expreſs a bold quick hand; Note farther, that the beſt light to draw by is the North-light, and the higher the Window and ſloping the better; place your ſelf ſo to your desk that the light may ſtrike in ſidelong, from the left hand to the right.</p>
+               <p>
+                  <hi>Thus much for Limning.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:55154:19"/>
+               <head>Of Waſhing and Colouring; of Maps and Pictures; Diſcovering how to prepare them for Colours, with their <g ref="char:V">Ʋ</g>ſe, Order and Mix<g ref="char:EOLhyphen"/>tures.</head>
+               <p>THAT Prints or Maps may lie ſmooth when paſted upon Paper or Cloth, firſt wet or damp your Prints with a Spunge or Cloth, but be careful that you wet them as the Paper will bear it; Af<g ref="char:EOLhyphen"/>ter you have ſo done, take your Paſte, made either of Wheat-flower or of ſtarch; and with a bruſh ſpread it all over the Paper or Cloth you intend to put it upon, then take the ſheet you damp'd, and lay it upon another part of the Board you paſte upon, and lay your Print upon the Paper or Cloth, and ſmooth it down with your hand; and ſo do by as many as your occaſion requires, and then either preſs them; or if you have not conveniencie take a ſheet or two of that Paper you paſted your Prints upon, and lay upon the Prints you paſted, but let the Paper be dry, then with your hands rub it all over hard, to cauſe your painted Prints to ſtick faſt every where; as you take them one from another, if you perceive any ſwelling or riſing of the Paper like bliſters, then take the point of a Pin or Needle, and prick the ſame, and that will let out the wind that lies underneath, and ſo cauſe it to lie ſmooth, if you rub it with your hands; and then hang them on lines to dry.</p>
+               <p>You may prepare them to make them bear Colours and Varniſh, but firſt obſerve how to paſte on Cloth, which is thus, wet your Maps or Prints you intend to paſte, as before you were to wet the Paper you were to paſte upon, and then let them lie, while you wet the Cloth or ſheet you intend to paſte upon, thus put the Cloth into a pale of water, and be ſure it be throughly wet, and after wring it out, and nail it faſt at the top, bottom and ſides, ſo that it may be ſtrain'd ſmooth and even; this done, take your Print wet as beforeſaid, and with your bruſh paſte your ſheet you intend to place firſt or uppermoſt, and be ſure the paſte lie all over, and then place it upon your Cloth, and after take a Spunge with a little water in it, and ſo ſmooth and ſtrike it firme to the Cloth, thus do one after another until all are paſted.</p>
+               <p>To ſtrengthen your Print to bear Colours and Varniſh, there are three ways; either with ſize, or which is beſt of all with Paſte, or with ſtarch. If you uſe ſize, put ſome fair water to it, or it will ſoil much; when your ſtarch or paſte is boyl'd, uſe it until it be cool; for if it will not ſtrengthen your Print ſo much, being cold, with your Spunge be ſure you rub it all over with your Paſte, or elſe if you miſs, ſome parts will bear the Colours, and other parts will not. After it is once dry, go it over again a ſecond time with paſte, and then after it is through dry you need not fear to lay on your Colours,</p>
+               <div type="section">
+                  <pb n="36" facs="tcp:55154:20"/>
+                  <head>How to chooſe your Pencils.</head>
+                  <p>Be ſure they be fulleſt next the Quill, falling off with a round ſharp point; if there be any ſtragling Hairs, take them away by the touch of the flame of a Candle, you muſt have ſeveral Pencils for ſeveral Co<g ref="char:EOLhyphen"/>lours, or elſe be ſure to waſh your Pencil clean, when you take it from one colour to uſe it with another, or elſe you will endanger the ſpoil of all your Colours, you alſo muſt have of ſeveral ſizes, as your Work requires.</p>
+               </div>
+               <div type="section">
+                  <head>To make Gum-Water.</head>
+                  <p>Take a quart of clean water, and put it into a Bottle or earthen Pan, then take ſix Ounces of Gum Arabeck, and put it into a clean linnen Rag, and tie it up with a thread, put that in, let it diſſolve in the water; if it prove too ſtrong, put in more water; if too weak, put in more Gum.</p>
+               </div>
+               <div type="section">
+                  <head>The Names of ſuch Colours that muſt be waſh'd.</head>
+                  <list>
+                     <item>
+                        <hi>ELEWES.</hi>
+                        <list>
+                           <item>Blew B ſe.</item>
+                           <item>Indiga.</item>
+                           <item>Blew Verditer.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>GREENS.</hi>
+                        <list>
+                           <item>Verdigreece.</item>
+                           <item>Sap Green.</item>
+                           <item>Copper Green.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>REDS.</hi>
+                        <list>
+                           <item>Vermillion.</item>
+                           <item>Lake.</item>
+                           <item>Red-lead.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>YELLOWS.</hi>
+                        <list>
+                           <item>French-berries</item>
+                           <item>Saffron.</item>
+                           <item>Light Maſtic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>t.</item>
+                           <item>Cambuga.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>WHITES.</hi>
+                        <list>
+                           <item>White-lead pickt fine.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>BROWNS.</hi>
+                        <list>
+                           <item>Spaniſh brown.</item>
+                           <item>umber, or Hair-colour.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>BLACKS.</hi>
+                        <list>
+                           <item>Franck fort-black</item>
+                           <item>Ivory burnt.</item>
+                           <item>Small-coal black.</item>
+                           <item>Sea-coal black.</item>
+                           <item>Lamb-black.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>All theſe muſt be very well ground before they can be uſed.</p>
+               </div>
+               <div type="section">
+                  <head>How to order your Colours.</head>
+                  <p>Having very well ground thoſe Colours to be ground; put them up<g ref="char:EOLhyphen"/>on a Chalk-ſtone to dry, when they are dry, lay them up carefully until you uſe them, then mingle them with Gum-water</p>
+                  <p>Thoſe Colours that you muſt waſh put into a Galley-pot and cover them with fair water, and ſtir them with a ſtick very well, and after they have ſtood a while, pour off that water into another Galley-pot; and let the ſecond ſtand until it be ſetled, then pour the ſame water back again into the firſt pot, and ſtir it again as before, then pour it into the ſecond pot, as before, and this do three or four times; and then at laſt when the colour is well ſetled in the ſecond pot, throw the water quite away, and then uſe that colour that is in the ſecond pot.</p>
+                  <p>The colour in your firſt pot will ſerve for your courſe work.</p>
+                  <p>
+                     <hi>Blew Biſe</hi> well waſh'd is beſt, but uſe no <hi>Smalt</hi> in waſhing your Prints.</p>
+               </div>
+               <div type="section">
+                  <pb n="35" facs="tcp:55154:20"/>
+                  <head>A Liquor to be uſed with ſome Colours.</head>
+                  <p>Take an ounce of Pot-aſhes of the beſt, and one Gallon of River-water, then bruſh your Aſhes to powder, and put it into your water, and boil it a little while, then ſet it to ſettle, after pour off that which is clear, and keep that for your uſe.</p>
+               </div>
+               <div type="section">
+                  <head>For a sky Colour.</head>
+                  <p>Let the upper part be the ſaddeſt blew, and the next lighter, and next that a fleſh colour mix'd with ſome of the laſt and the loweſt of all fleſh colours, wrought with light yellow at your pleaſure, and for the clouds your Judgment may direct, they being ſo various.</p>
+               </div>
+               <div type="section">
+                  <head>To make a Copper-Green.</head>
+                  <p>Take an ounce of white Orgal, and four ounces of Copper-duſt, to be had at the Copper-Smiths, and a pinte of fair Water, and boil it half away, then after it hath ſtood and ſetled, pour off the thinneſt, and keep for your uſe, if you would have it a Sea-green, then put into it ſome blew <hi>Vorditor,</hi> and if a Graſs-Green, then put in ſome <hi>French</hi> Berry-water, or ſome <hi>Cambuga.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>For a Red Crimſon.</head>
+                  <p>Take off your Liquor made with Pot-aſhes, as before is mentioned, and adde to it ſome rain-water, and then take Scarlet-flocks or ſhreds, ſteep them with ordinary Gum-water; but note, you muſt let your Colours boil in the Liquor you ſteep them in a little while; and then put in your ordinary Gum-water, or weak ſize, and let them boil together until they are thick for your uſe.</p>
+               </div>
+               <div type="section">
+                  <head>For an Oringe Colour.</head>
+                  <p>Take <hi>Ornotto</hi> and boil it in the aforeſaid Liquor, and it will make a fair Oringe colour.</p>
+               </div>
+               <div type="section">
+                  <head>To make a good blew.</head>
+                  <p>Take <hi>Litmus</hi> and wet it in the aforeſaid liquour, let it ſtand all night, and then boil it in weak ſize or Gum-water, and if it be too ſad, adde lime water to it, and if you would have it a fair purple adde White-wine vinegar to it.</p>
+               </div>
+               <div type="section">
+                  <head>To make a fair Crimſon.</head>
+                  <p>Take the beſt Brazil ground or ſhaved, put of the aforeſaid Liquor to it, and let it ſtand all night, then boil it with weak ſize, or ordinary Gum-water, till the colour is to your minde: try it with a ſtick upon your Nail, when it fades put Powder of Allum into it to ſtrike it lighter.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:55154:21" rendition="simple:additions"/>
+                  <head>Colours that ſet off beſt together in Shadows</head>
+                  <list>
+                     <item>WHITE ſets off with all Colours.</item>
+                     <item>GREEN ſets off with Red, Browns or Purples.</item>
+                     <item>RED ſets off with Red, Brown, or Purple.</item>
+                     <item>YELLOW ſets off with Purple, Red, Green or Brown.</item>
+                     <item>BLEW ſets off with White, Red, Brown, Yellow o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Black.</item>
+                     <item>BROWN ſets off with Green or Yellow.</item>
+                  </list>
+                  <list>
+                     <head>Colours that muſt be Ground.</head>
+                     <item>Indigo</item>
+                     <item>Lake</item>
+                     <item>White-Lead</item>
+                     <item>
+                        <hi>Spaniſh</hi> brown</item>
+                     <item>
+                        <hi>Frankfort</hi>-black</item>
+                     <item>Umber</item>
+                     <item>Ivory burnt</item>
+                     <item>Small Coal Theſe muſt be waſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> after they are Ground</item>
+                     <item>Sea Coal Theſe muſt be waſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> after they are Ground</item>
+                  </list>
+                  <list>
+                     <head>Colours that muſt be waſh'd.</head>
+                     <item>Blew Bice</item>
+                     <item>Red Lead</item>
+                     <item>Sap Green.</item>
+                     <item>Cambuga.</item>
+                  </list>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
